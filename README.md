@@ -1,6 +1,6 @@
 # ChatsApp
 #OTP Authentication
-![WhatsApp Image 2021-08-26 at 20 03 51 (4)](https://user-images.githubusercontent.com/63201376/130983111-e5d4aaea-dc7c-4e67-871b-931d937548eb.jpeg |width=200)
+![WhatsApp Image 2021-08-26 at 20 03 51 (4)](https://user-images.githubusercontent.com/63201376/130983111-e5d4aaea-dc7c-4e67-871b-931d937548eb.jpeg | width=200p)
 
 #Profile Upload
 ![WhatsApp Image 2021-08-26 at 20 03 51 (1)](https://user-images.githubusercontent.com/63201376/130983227-8997cbc4-2206-489a-a696-a19800be64ef.jpeg)
