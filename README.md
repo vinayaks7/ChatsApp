@@ -1,7 +1,7 @@
 # ChatsApp
 # OTP Authentication
 
-<a href="url"><img src="https://user-images.githubusercontent.com/63201376/130983111-e5d4aaea-dc7c-4e67-871b-931d937548eb.jpeg" align="left" height="1000" width="1000" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/63201376/130983111-e5d4aaea-dc7c-4e67-871b-931d937548eb.jpeg" align="left" height="1000" width="1500" ></a>
 
 ![WhatsApp Image 2021-08-26 at 20 03 51 (4)](https://user-images.githubusercontent.com/63201376/130983111-e5d4aaea-dc7c-4e67-871b-931d937548eb.jpeg)
 
