@@ -9,4 +9,4 @@
 ## Chat Screen
 <img href="url"><img src="https://user-images.githubusercontent.com/63201376/130983652-63ecc019-a85f-4c5f-b32d-689ae155f403.jpeg" alt="alt text" width="360" height="640">
 ## Group Chat screen
-<img href="url"><img src="https://user-images.githubusercontent.com/63201376/130984123-3e1b4456-2446-4578-9637-073113598c88.jpeg"alt="alt text" width="360" height="640">
+<img href="url"><img src="https://user-images.githubusercontent.com/63201376/130984123-3e1b4456-2446-4578-9637-073113598c88.jpeg "alt="alt text" width="360" height="640">
