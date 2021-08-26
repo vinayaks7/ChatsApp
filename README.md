@@ -1,8 +1,7 @@
 # ChatsApp
+
 # OTP Authentication
-
 <a href="url"><img src="https://user-images.githubusercontent.com/63201376/130983111-e5d4aaea-dc7c-4e67-871b-931d937548eb.jpeg" align="left" height="750" width="500" ></a>
-
 
 # Profile Upload
 <a href="url"><img src="https://user-images.githubusercontent.com/63201376/130983227-8997cbc4-2206-489a-a696-a19800be64ef.jpeg" align="left" height="750" width="500" ></a>
